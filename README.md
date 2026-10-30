@@ -16,3 +16,8 @@ are caused by two trailing spaces at the end of a line.
 - Library Carpentry
 
 this is a playground
+Soft line
+break
+
+Hard line
+break
