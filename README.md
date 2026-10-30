@@ -15,7 +15,7 @@ are caused by two trailing spaces at the end of a line.
 - Data Carpentry
 - Library Carpentry
 
-this is a playground 
+this is a playground  
 Soft line
 break
 
